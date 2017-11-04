@@ -1,2 +1,2 @@
 # pinvie
-para el curso
+para el curso de git
